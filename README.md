@@ -18,4 +18,4 @@ These are the DL models which I have worked with for the CIFAR-10 Dataset.
 
    (76.7% Accuracy)
 
-The ResNet-9 & VGG-16 perform above 90% due to the complexity of the model as it involves a larger number of convolutional layers. The AlexNet & LeNet are simple models so their accuracies are ~87% and ~77% Respectively.
+The ResNet-9 & VGG-16 perform above 92% due to the complexity of the model as it involves a larger number of convolutional layers. The AlexNet & LeNet are simple models so their accuracies are ~87% and ~77% Respectively.
